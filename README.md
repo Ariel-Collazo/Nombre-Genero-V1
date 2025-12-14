@@ -21,3 +21,5 @@ El resultado es devuelto en un campo que identifica el género y lo califica com
 La aplicación está disponible para ser instalada directamente en un dispositivo Android.
 
 # Conexiones con API externas
+La operativa de consulta utiliza una API de genderize.io
+
